@@ -1,5 +1,5 @@
 {
-  "name": "bson",
+  "name": "mb-bson",
   "description": "A bson parser for node.js and the browser",
   "keywords": [
     "mongodb",
@@ -13,9 +13,9 @@
     "bower.json"
   ],
   "version": "1.0.4",
-  "author": "Christian Amor Kvalheim <christkv@gmail.com>",
+  "author": "Christian Amor Kvalheim <christkv@gmail.com>, qinghai <qinghai@gmail.com>",
   "contributors": [],
-  "repository": "mongodb/js-bson",
+  "repository": "qing-hai/js-bson",
   "bugs": {
     "mail": "node-mongodb-native@googlegroups.com",
     "url": "https://github.com/mongodb/js-bson/issues"

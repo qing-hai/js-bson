@@ -1,5 +1,10 @@
 # BSON parser
 
+Forked by qinghai, 用于copy  lib/bson/parser/deserializer.js && serializer.js to mb
+
+1. edit by fish, use copy instead of slice
+2. edit by fish, add extend attrs to dbref
+
 If you don't yet know what BSON actually is, read [the spec](http://bsonspec.org).
 
 The browser version of the BSON parser is compiled using webpack and the current
